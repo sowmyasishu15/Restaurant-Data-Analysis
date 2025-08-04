@@ -23,3 +23,13 @@ The analysis revealed that while some locations have a very high volume of resta
 **Libraries**: Pandas, Matplotlib
 
 **Environment**: VS Code with Jupyter Notebooks
+
+
+---
+
+## Dataset
+
+This project uses the "Zomato Bangalore Restaurants" dataset, which is publicly available on Kaggle.
+
+You can download the dataset directly from here:
+**[Kaggle: Zomato Bangalore Restaurants Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)**
